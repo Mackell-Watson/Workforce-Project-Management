@@ -50,6 +50,8 @@ Departments included in this dashboard are:
 
 Sales
 
+![Image](https://github.com/user-attachments/assets/5555fa95-5b29-4056-ae1c-a52b295ff4f8)
+
 Marketing
 
 Engineering
