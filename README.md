@@ -72,6 +72,8 @@ Project Budget Per Capital Thousands: The dashboard details the budget allocated
 Project Budget by Department in Millions: The budget breakdown is also visualized in millions to offer a higher-level perspective on capital allocation across departments.
 This visualization gives stakeholders a high-level overview of the financial distribution, showing the relative size of each department’s involvement in the overall project, and helps assess how the allocated budget aligns with expected project outcomes.
 
+![Image](https://github.com/user-attachments/assets/3d18a672-8e4c-400f-a809-ded3dea1584d)
+
 ### Steps followed 
 
 1.Load Data: Imported the dataset (CSV file) into Power BI Desktop.
