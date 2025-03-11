@@ -40,6 +40,8 @@ The project demonstrates your ability to create meaningful data visualizations, 
 
 ## Snapshot of Dashboard (Power BI Service)
 
+![Image](https://github.com/user-attachments/assets/5c14efab-65d7-4a8b-be29-34212782e3f3)
+
 Snapshot Overview:
 
 This Power BI Dashboard offers an initial estimate of key project data, providing a snapshot of project distribution and budget allocation. The total capital for the project is estimated at $1.29 million, with the overall project budget set at $365 thousand. This budget is distributed across multiple departments, providing a clear view of how resources are allocated.
