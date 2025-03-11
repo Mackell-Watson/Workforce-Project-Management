@@ -64,6 +64,8 @@ Human Resources
 
 IT
 
+![Image](https://github.com/user-attachments/assets/98c8bdd6-cc1a-4143-84d7-32ffdb503b59)
+
 The budget distribution by department is broken down as follows:
 
 Project Budget Per Capital Thousands: The dashboard details the budget allocated in thousands of dollars for each department.
