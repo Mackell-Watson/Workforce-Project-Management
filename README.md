@@ -49,11 +49,9 @@ This Power BI Dashboard offers an initial estimate of key project data, providin
 Departments included in this dashboard are:
 
 Sales
-
 ![Image](https://github.com/user-attachments/assets/5555fa95-5b29-4056-ae1c-a52b295ff4f8)
 
 Marketing
-
 ![Image](https://github.com/user-attachments/assets/c0c4d8af-7b4e-4e23-ae9c-5a8abc2a1880)
 
 Engineering
