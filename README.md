@@ -1,6 +1,6 @@
  # Workforce Project Management - Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : https://github.com/Mackell-Watson/Workforce-Project-Management/blob/main/Employee%20Project%20Status.pbix
 
 ## Problem Statement
 The primary goal of this Power BI Dashboard is to provide a centralized and detailed view of the employee involvement and progress across various projects within the organization. This dashboard includes key employee information, such as Employee ID, First & Last Names, Job Title, Department Name, and Salary, to facilitate an easy identification of each individual’s role and contribution to ongoing initiatives. Additionally, the dashboard highlights two critical KPIs that measure the Project Distributions of Buy-In, providing insights into how employees are allocated across multiple projects and their level of engagement.
