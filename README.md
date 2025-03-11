@@ -55,6 +55,7 @@ Marketing
 ![Image](https://github.com/user-attachments/assets/c0c4d8af-7b4e-4e23-ae9c-5a8abc2a1880)
 
 Engineering
+![Image](https://github.com/user-attachments/assets/8dad7efb-d61a-4af0-9840-55ffadfe03bd)
 
 Human Resources
 
