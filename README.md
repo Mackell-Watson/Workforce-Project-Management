@@ -60,6 +60,8 @@ Engineering
 
 Human Resources
 
+![Image](https://github.com/user-attachments/assets/5e1d0f4d-7f6f-4d3b-b0ab-5fe919db2586)
+
 IT
 
 The budget distribution by department is broken down as follows:
